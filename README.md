@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-🔭 I’m currently working on C++,CSS.<br>📫 How to reach me : aarushmenaria75@gmail.com<br>📜 Certified Digital 101 Journey<br>🌱 I’m currently learning Python<br>💬 Ask me about C , Python.<br>🎥 Also skilled as a video editor.<br>⚡ Fun fact :<br>The computer viruses are the best code because when they fails they pass.
+🔭 I’m currently working on C++,CSS.<br>📫 How to reach me : aarushmenaria75@gmail.com<br>📜 Certified Digital 101 Journey<br>🌱 I’m currently learning Python<br>💬 Ask me about C , Python.<br>🎥 Also skilled as a video editor.<br>⚡ Fun fact :<br>The computer viruses are the best code because when they pass they fails the system.
 
 
 ## 🌐 Socials:
