@@ -13,7 +13,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Arush#9549) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arush_menaria) 
 
-<a href="https://www.linkedin.com/in/kartik-jain-473ab81b2/" target="blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/arush-menaria-a8b035263/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/arush-menaria-a8b035263/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
